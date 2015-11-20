@@ -1,4 +1,4 @@
-# 2015-11-20-Apache-Slor
+# 2015-11-20-Apache-Solr
 Materialien zur Goldschmiede Veranstaltung am 20.11.15
 
 
